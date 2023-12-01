@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "arithmetic-expressions"
 version = "0.1"
-description = ""
+description = "A Python module for symbolic arithmetic expressions."
 authors = ["Tomas Bayer <mail@tomas.berlin>"]
 readme = "README.md"
 license = "MIT"
